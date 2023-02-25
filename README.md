@@ -1,1 +1,1 @@
-# skin-cancer-detector-pytorch
+# Skin Cancer Classifier (Pytorch)
